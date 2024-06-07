@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/salary-calculator-2024-Q2-DilshanMadhusanka/static/css/main.9a8e669b.css",
+    "main.js": "/salary-calculator-2024-Q2-DilshanMadhusanka/static/js/main.d799bb31.js",
+    "index.html": "/salary-calculator-2024-Q2-DilshanMadhusanka/index.html",
+    "main.9a8e669b.css.map": "/salary-calculator-2024-Q2-DilshanMadhusanka/static/css/main.9a8e669b.css.map",
+    "main.d799bb31.js.map": "/salary-calculator-2024-Q2-DilshanMadhusanka/static/js/main.d799bb31.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a8e669b.css",
+    "static/js/main.d799bb31.js"
+  ]
+}
